@@ -1,6 +1,7 @@
-Thanks for downloading this template!
+Di Buat Oleh Black Market Team
 
-Template Name: BizLand
-Template URL: https://bootstrapmade.com/bizland-bootstrap-business-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Anggota Kelompok :
+
+1. Muhammad Daffa Atthariq = Lead
+2. Miftahuddin Ma'ruf = Anggota
+3. Choirul Huda = Anggota
